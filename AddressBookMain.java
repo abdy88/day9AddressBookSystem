@@ -10,9 +10,9 @@ public class AddressBookMain {
 	
 		System.out.println('\n' +"Welcome to Address Book Program"+ '\n' );
 		
-		Contacts abdullaah = new Contacts();
-		abdullaah.contactDetails();
-	
+//		Contacts abdullaah = new Contacts();
+//		abdullaah.contactDetails();
+//	
 	}
 
 }
